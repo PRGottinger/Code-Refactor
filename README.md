@@ -1,6 +1,6 @@
 # Horiseon Services Homepage Refactor
 
-##Description
+## Description
 
 This repository includes a code refactor for the Horiseon Services landing page.
 
@@ -19,16 +19,18 @@ Nothing special is required to get this development environment running.
 
 ## Technologies
 
-HTML 5
-CSS 3
+1. HTML 5
+2. CSS 3
 
 ## Usage
 
 The Horiseon Services landing page now includes a title and all the links in the header are functional.
 
 ```md
-![alt text](./assets/images/horiseon_mockup.jpg)
+![Horiseon Services landing page](./assets/images/horiseon_mockup.png)
 ```
+
+You can find the Horiseon Services landing page deployed [here](https://prgottinger.github.io/Code-Refactor/):
 
 ## License
 
