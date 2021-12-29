@@ -26,11 +26,9 @@ Nothing special is required to get this development environment running.
 
 The Horiseon Services landing page now includes a title and all the links in the header are functional.
 
-```md
-![Horiseon Services landing page](./assets/images/horiseon_mockup.png)
-```
+You can find the Horiseon Services landing page deployed [here](https://prgottinger.github.io/Code-Refactor/).
 
-You can find the Horiseon Services landing page deployed [here](https://prgottinger.github.io/Code-Refactor/):
+![Horiseon Services landing page](./assets/images/horiseon_mockup.png)
 
 ## License
 
