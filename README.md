@@ -10,8 +10,9 @@ This code refactor was conducted to improve the website's accesiblity, preforman
 2.  Including alt atributes to the <img> elements in the html markup.
 3.  Improving the order of the heading atributes in the html.
 4.  Including a concise and descriptive title.
-5.  Fixingall the links in the header, so they work correctly.
+5.  Fixed all the links in the header, so they work correctly.
 6.  Improving the structure of styling and positioning the CSS stylesheet by consolidating classes and organizing the stylesheet to follow semantic structure. This also greatly shortened the lines of code on the CSS stylesheet.
+7.  Added comments to the stylesheet to indicte classes consolidated and assist with understanding the stylesheet.
 
 ## Installation
 
